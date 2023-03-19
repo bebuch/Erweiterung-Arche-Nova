@@ -3,7 +3,7 @@
 ### Sponsoren-Event
 
 1. Sponsor möchte investieren: Spiele eine Sponsornkarte von deiner Hand.
-2. Sponsor hat Mut verloren–: Wirf eine Sponsorkarte von deiner Hand ab.
+2. Sponsor hat Mut verloren: Wirf eine Sponsorkarte von deiner Hand ab.
 3. Schlechte wirtschaftliche Lage: Entferne alle Sponsoren aus der Auslage und fülle diese anschießend wieder auf.
 
 ### Tier-Event
@@ -18,18 +18,17 @@
 ### Bau-Event
 
 1. Bauunternehmer schenkt euch 2 Pavilone
-2. Bauunternehmer unterstützt euch (1 Gebäude zum œ Preis)
-3. Ein altes Gehge ist eingestürzt. Ersetze das kleinste leere Gehege durch Hinderniss(e)
+2. Bauunternehmer unterstützt euch: 1 Gebäude zum halben Preis bauen
+3. Ein altes Gehege ist eingestürzt: Ersetze das kleinste leere Gehege durch Hinderniss(e)
 
 ### Auslage-Event
 
-1. Feuer ist im Zentrallage ausgebrochen. Auslage leeren & auffüllen.
+1. Feuer ist im Zentrallage ausgebrochen: Auslage leeren & auffüllen.
 
 ### Artenschutz-Event
 
-1. Ihr dürft euch an einen AS beteiligen. 10 Geld für 1 AS
-2. Es gibt noch so viel beim Artenschutz zu tun. Ziehe zwei, nicht verwendete, Basisartenschutzkarten und wähle eine 
-   davon. Diese zählt nicht zum Handkartenlimet.
+1. Ihr dürft euch am Artenschutz beteiligen: 10 Geld für 1 Artenschutz
+2. Es gibt noch so viel beim Artenschutz zu tun. Ziehe zwei, nicht verwendete, Basisartenschutzkarten und wähle eine davon. Diese zählt nicht zum Handkartenlimet.
 3. Noch so viel Platz in den Gehegen. Lasse ein Tier einziehen, dieses Tier hat + 1AS.
 
 ### Geld-Event
