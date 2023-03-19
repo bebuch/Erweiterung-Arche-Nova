@@ -1,15 +1,16 @@
-## Spielaufbau
-# Durchnummerrieren#
-. Neu* Das Tor muss an zwei Randfeldern plaziert werden und wird behandelt wie ein Pavilon. Vom Tor aus wird dann weiter gebaut.
-. Neu* Felder Bau 2 werden durch Hindernisse ersetzt.
-. Neu* Szenariokarte vorlesen.
-. Neu* Aufbau nach Szenario.     
-. Neu* Eventmarker nach Szenario plazieren.
-. Basisartenschutzkarten auslegen.
-. Zwei Endwertungskarten austeilen.
-. 8 Karten ziehen und 4 Abwerfen.
-. Alle Karten mischen und die Auslage auffüllen.
+# Spielaufbau
 
+## Durchnummerrieren
+
+1. Neu* Das Tor muss an zwei Randfeldern plaziert werden und wird behandelt wie ein Pavilon. Vom Tor aus wird dann weiter gebaut.
+1. Neu* Felder Bau 2 werden durch Hindernisse ersetzt.
+1. Neu* Szenariokarte vorlesen.
+1. Neu* Aufbau nach Szenario.     
+1. Neu* Eventmarker nach Szenario plazieren.
+1. Basisartenschutzkarten auslegen.
+1. Zwei Endwertungskarten austeilen.
+1. 8 Karten ziehen und 4 Abwerfen.
+1. Alle Karten mischen und die Auslage auffüllen.
 
 ## Spielaufbau
 
