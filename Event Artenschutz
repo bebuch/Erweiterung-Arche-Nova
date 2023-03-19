@@ -14,11 +14,11 @@ Event:      AS 2: Szenario AS 1 & 1-3:  Tierkarte 1 *3
             AS 4: Szenario AS 2 & 1-3:  Hindernisse 1
                                   4-6:  Hindernisse 2
                                   
-            AS 6: Szenario AS 3 & 1-3:  Artenschutz X
+            AS 6: Szenario AS 3 & 1-3:  Artenschutz 2
                                   4-6:  Bau 3
                                   
             AS 8: Szenario AS 4 & 1-3:  Artenschutz 1
-                                  4-6:  Artenschutz X
+                                  4-6:  Artenschutz 3
 
 
 
