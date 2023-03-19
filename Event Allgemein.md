@@ -8,7 +8,7 @@
 
 ### Tier-Event
 
-1. Zoo hat Nachwuchs und bietet euch einen an (ziehen bis Tierkarte)
+1. Nachwuchs für den Zoo: ziehe eine Tierkarte (ziehen bis eine kommt)
 2. Ihr habt zu viele Tiere. Wer will kann ein Tier den Mitspieler für 5 Geld anbieten
 
 ### Ruf-Event
@@ -27,9 +27,9 @@
 
 ### Artenschutz-Event
 
-1. Ihr dürft euch am Artenschutz beteiligen: 10 Geld für 1 Artenschutz
-2. Es gibt noch so viel beim Artenschutz zu tun. Ziehe zwei, nicht verwendete, Basisartenschutzkarten und wähle eine davon. Diese zählt nicht zum Handkartenlimet.
-3. Noch so viel Platz in den Gehegen. Lasse ein Tier einziehen, dieses Tier hat + 1AS.
+1. Ihr dürft für den Artenschutz spenden: 10 Geld für 1 Artenschutz.
+2. Es gibt noch so viel beim Artenschutz zu tun. Ziehe zwei nicht verwendete Basisartenschutzkarten und wähle eines davon. Dieses zählt nicht zum Handkartenlimit.
+3. Noch so viel Platz in den Gehegen. Lasse ein Tier einziehen, dieses Tier hat +1 Artenschutz.
 
 ### Geld-Event
 
@@ -39,5 +39,5 @@
 
 ### Hindernis-Event
 
-1. Dein Zoo muss mal wieder gepflegt werden. Setze ein Hinderniss an ein anderes vorhandenes.
-2. Dein Zoo ist stark vernachlässigt. +1 an je ein vorhandenes Hinderniss setzen.
+1. Dein Zoo muss mal wieder gepflegt werden. Setze, falls möglich, ein Hinderniss an ein anderes vorhandenes. 
+2. Dein Zoo ist stark vernachlässigt. Setze, falls möglich, ein neues Hinderniss an jedes vorhandene Hinderniss.
