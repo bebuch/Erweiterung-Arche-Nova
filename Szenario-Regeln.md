@@ -21,18 +21,6 @@
 - Falls man Sponsoren auf Stufe 2 hat, dürfen beim Spielen von Sponsorenkarten mit Spezialgehege dürfen die Terraformingaktionen See zuschütten und Felsen sprenge ausgeführt werden. Die Baustärke muss hierbei in Form von Münzen (1 Baustärke + 10 Münzen = 11 Münzen) gezahlt werden.
 - Events werden von Staat gefördert. Der möchte aber so wenig Geld wie möglich ausgeben, daher gilt beim Platzieren von Event-Gehegen: Falls auf freien Baufeldern platziert werden kann, wird dort gebaut. Andernfalls werden automatisch Hindernisse abgerissen. Reicht auch das nicht, werden automatisch Seen zugeschüttet oder Felsen gesprengt. Reicht auch das nicht, darf der Spieler eigene Gebäude entfernen oder auf das Event Gebäude verzichten.
 
-## Änderungen Spielaufbau
-
-**Achtung:** Bauboni auf dem Spielplan verfallen, falls diese in der Aufbauphase überbaut werden!
-
-1. (Standardregel) Jeder Spieler zieht 8 Karten vom Nachziehstapel.
-2. Der neue Spielstein »Tor« wird auf zwei Randfeldern plaziert. Ausgehend vom Tor wird gebaut.
-3. Der weitere Aufbau erfolgt entsprechend den Szenariokarte. Hinweis: »Gehege X Felder« bezieht sich auf die kürzeste Verbindung in bebaubaren Feldern.
-4. »Gehege voll« bedeutet, dass der Spieler Karten zieht, bis ein passendes Tier gezogen wird. Dieses zieht sofort ein und kostet kein Geld. Die Marker auf Attraktivität-, Ruf- und Artenschutzleiste werden entsprechend der Tierkate vorgerückt.
-5. Jeder Spieler wirft Karten ab, bis er nur noch 4 auf der Hand hat. Hinweis: Sortierung auf Kontinentstapel beachten!
-6. (Standardregel) Die Rufauslage wird mit Karten vom normalen Nachziehstapel aufgefüllt.
-7. Die Szenariokarte wird vorgelesen und die Event-Marker werden entsprechend der Szenariokarte auf Attraktivität-, Ruf- und Artenschutzleiste plaziert. Hinweis: Beim Aufbau werden keine Events augelöst!
-
 ### Terraforming
 
 **Achtung Regelergänzung für Karte 219**: Mit dieser Sponsorenkarte können Wasser- und Felsenfeldern bebaut werden. Für jedes Wasser- oder Felsenfeldern das bebaut wird, verliert der Zoo 3 Attraktivität!
@@ -42,3 +30,18 @@
 - Felsen sprengen:  Für 10 Geld und eine Baustärke kann ein Felsenfeld gesprengt und dann sofort bebaut werden. Der Zoo verliert durch das Sprengen 3 Attraktivität.
 - Teich anlegen:  Für 10 Geld und eine Baustärke kann ein Teich angelegt werden. Dies bringt sofort 3 Attraktivität und in der Einkommenphase 1 Geld für jeden benachbarten Kiosk. Ein Teich ist ein Wasserfeld.
 - Findling aufstellen:  Für 10 Geld und eine Baustärke kann ein Findling aufgestellt werden. Dies bringt sofort 3 Attraktivität und in der Einkommenphase 1 Geld für jeden benachbarten Kiosk. Ein Findling ist ein Felsenfeld.
+
+## Änderungen Spielaufbau
+
+**Achtung:** Bauboni auf dem Spielplan verfallen, falls diese in der Aufbauphase überbaut werden!
+
+1. (Standardregel) Jeder Spieler zieht 8 Karten vom Nachziehstapel.
+1. Der neue Spielstein »Tor« wird auf zwei Randfeldern plaziert. Ausgehend vom Tor wird gebaut.
+1. Der weitere Aufbau erfolgt entsprechend den Szenariokarte. Hinweis:
+    - »Gehege X Felder« bezieht sich auf die kürzeste Verbindung in bebaubaren Feldern.
+    - »Gehege voll« bedeutet, dass der Spieler Karten zieht, bis ein passendes Tier gezogen wird. Dieses zieht sofort ein und kostet kein Geld. Die Marker auf Attraktivität-, Ruf- und Artenschutzleiste werden entsprechend der Tierkate vorgerückt.
+1. Jeder Spieler wirft Karten ab, bis er nur noch 4 auf der Hand hat.
+    - Sortierung auf Kontinentstapel beachten!
+1. (Standardregel) Die Rufauslage wird mit Karten vom normalen Nachziehstapel aufgefüllt.
+1. Die Szenariokarte wird vorgelesen und die Event-Marker werden entsprechend der Szenariokarte auf Attraktivität-, Ruf- und Artenschutzleiste plaziert.
+    - Beim Aufbau werden keine Events augelöst!
