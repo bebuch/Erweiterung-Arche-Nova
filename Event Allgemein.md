@@ -28,7 +28,9 @@
 ### Artenschutz-Event
 
 1. Ihr dürft euch an einen AS beteiligen. 10 Geld für 1 AS
-2. Es gibt noch so viel beim Artenschutz zu tun. Ersetze die Basisartenschutzkarten duch neue, die Du bereitz erfüllt hast.
+2. Es gibt noch so viel beim Artenschutz zu tun. Ziehe zwei, nicht verwendete, Basisartenschutzkarten und wähle eine 
+   davon. Diese zählt nicht zum Handkartenlimet.
+3. Noch so viel Platz in den Gehegen. Lasse ein Tier einziehen, dieses Tier hat + 1AS.
 
 ### Geld-Event
 
