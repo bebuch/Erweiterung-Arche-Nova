@@ -32,15 +32,23 @@
   und wird wieder auf das Startfeld auf der Pausenleiste gelegt.
 - Karten mit Kontinentsymbol kommen nicht mehr auf den Ablagestapel, sondern werden verdeckt, nach Kontinentsymbol sortiert, abgelegt. Hat man die Aktion »Karten«         auf Stufe 2, kann man von diesen Kontinenstapeln ziehen. Karten ohne Symbol, kommen auf den normalen Ablagestabel, mit der Bildseite nach oben. Diese können 
   auch mit der Aktion Karten Stufe 2 genommen werden.
+- Wenn der Spieler auf der Attraktivitätsliste einen Event-Marker berührt, unterbricht er seinen Zug und führt das Event sofort aus. Das könnte ein geplantes             oder/und ein zufälliges sein. Bei den geplanten schaut man auf der Eventseite nach und bei den zufälligen Events, würfelt man einen W6 Würfel. Danach ließt der         aktive Spieler die passende Anweisung aus der Eventliste vor und führt diese sofort aus. Danach macht er wie gewohnt sein Zug zu ende.
       
       
-      Wenn der Spieler auf der Attraktivitätsliste einen Event-Marker berührt, unterbricht er seinen Zug und führt das Event sofort aus. Das könnte ein geplantes             oder/und ein zufälliges sein. Bei den geplanten schaut man auf der Eventseite nach und bei den zufälligen Events, würfelt man einen W6 Würfel. Danach ließt der         aktive Spieler die passende Anweisung aus der Eventliste vor und führt diese sofort aus. Danach macht er wie gewohnt sein Zug zu ende.
+     
 
 ### Terraforming
 
+- Die Vorraussetzung für Terraforming ist Bau Stufe 2.
+- Es ist möglich für 10 Geld und eine Baustärke ein Teich anzugelegt. Dies bringt sofort 3 Attraktivität. In der Einkommensphase bekommt der angrenzende Kiosk 1 Geld.     Teich ist ein Wasserfeld, was bedeutet das angrenzden Gehege die Anforderung Wasser erfüllen.
+- Es ist möglich in der Bauphase ein Gebäude auf ein oder mehreren Wasserfeldern zu bauen. Dafür wird 1 Baustärke, 10 Geld und -3 Atraktivität benötigt. Es ist nicht 
+  möglich dies zu tun, wenn angrenzende Tiere in ihren Gehgen die Vorraussetzung  Wasser haben.
+- Es ist möglich für 10 Geld und eine Baustärke ein Berg auf zuschütten. Der Berg ist ein Felsenfeld, was bedeutet das angrenzden Gehege die Anforderung Felsen           erfüllen.
+- Es ist möglich in der Bauphase ein Gebäude auf ein oder mehreren Felsenfeldern zu bauen. Dafür wird 1 Baustärke und 10 Geld benötigt. Es ist nicht 
+  möglich dies zu tun, wenn angrenzende Tiere in ihren Gehgen die Vorraussetzung  Felsen haben.
+
+
 **Achtung Regelergänzung für Karte 219**: Mit dieser Sponsorenkarte können Wasser- und Felsenfeldern bebaut werden. Für jedes Wasser- oder Felsenfeldern das bebaut wird, verliert der Zoo 3 Attraktivität!
 
-- Vorraussetzung: Bauen auf Stufe 2.
-- See zuschütten:  Für 10 Geld und eine Baustärke kann ein Wasserfeld zugeschüttet und dann sofort bebaut werden. Der Zoo verliert durch das Zuschütten 3 Attraktivität.
-- Teich anlegen:  Für 10 Geld und eine Baustärke kann ein Teich angelegt werden. Dies bringt sofort 3 Attraktivität und in der Einkommenphase 1 Geld für jeden benachbarten Kiosk. Ein Teich ist ein Wasserfeld.
+
 
