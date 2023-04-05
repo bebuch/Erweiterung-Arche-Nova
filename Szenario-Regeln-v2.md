@@ -39,7 +39,8 @@
 
 ### Terraforming
 
-- Die Vorraussetzung für Terraforming ist Bau Stufe 2.
+- **Die Vorraussetzung für Terraforming ist Bau Stufe 2.**
+- Leere Gehege können für 1 Baustärke pro Feld für 2 Geld abgerissen werden.
 - Es ist möglich für 10 Geld und eine Baustärke ein Teich anzugelegt. Dies bringt sofort 3 Attraktivität. In der Einkommensphase bekommt der angrenzende Kiosk 1 Geld.     Teich ist ein Wasserfeld, was bedeutet das angrenzden Gehege die Anforderung Wasser erfüllen.
 - Es ist möglich in der Bauphase ein Gebäude auf ein oder mehreren Wasserfeldern zu bauen. Dafür wird 1 Baustärke, 10 Geld und -3 Atraktivität benötigt. Es ist nicht 
   möglich dies zu tun, wenn angrenzende Tiere in ihren Gehgen die Vorraussetzung  Wasser haben.
