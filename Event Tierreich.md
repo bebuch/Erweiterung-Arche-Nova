@@ -10,7 +10,13 @@ Aufbau:     - Je ein 1,2 und 3er Gehege leer.
             - je ein Kiosk und Pavilon.
 
 
-Event:      Ticket 20: Szenario Tierreich 1 & 1-3:  Tierkarte 1 *3
+Event:    Ideen:        leere gehege tauchen auf
+                        Überflutung, teiche vergrößern sich
+                        bauarbeiten, archilogischer fund, feld kann nicht benutzt werden
+
+
+
+Ticket 20: Szenario Tierreich 1 & 1-3:  Tierkarte 1 *3
                                              4-6:  Bau 2
                                   
             Ticket 40: Szenario Tierreich 2 & 1-3:  Hindernisse 1
