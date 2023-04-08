@@ -2,7 +2,7 @@ Text:       Um die vielfalt der Tiere zu zeigen, wurde ein Found ins Leben geruf
             jeder Mensch die Schönheit der Tierwelt an einem Ort betrachten kann. Für diese große Aufgabe kommst nur 
             du in Frage.
           
-Aufgabe:    113 Tickets inherhalb 6 Jahre.
+Aufgabe:    90 Tickets inherhalb 6 Jahre.
 
 Änderung:   Zu den 4 Startkarten zieht jeder noch zwei Tierkarten nach.
 
