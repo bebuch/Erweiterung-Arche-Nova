@@ -16,7 +16,7 @@ Event:    Ideen:        leere gehege tauchen auf
 
 
 
-Ticket 20: Szenario Tierreich 1 & 1-3:  Tierkarte 1 *3
+            Ticket 20: Szenario Tierreich 1 & 1-3:  Tierkarte 1 *3
                                              4-6:  Bau 2
                                   
             Ticket 40: Szenario Tierreich 2 & 1-3:  Hindernisse 1
@@ -33,18 +33,17 @@ Ticket 20: Szenario Tierreich 1 & 1-3:  Tierkarte 1 *3
 
 
 
-Event Szenario: AS 1: Es wird Zeit anzufangen ein Artenschutzgebäude zu bauen. 
-                      Plaziere auf dem 5er Gehege in der Mitte der dreier Reihe 
-                      ein Kiosk/Pavilon. Dieser ist das Hauptgebäude und hat ansonsten
-                      keine funktion.
+Event Szenario: 1: Ein Sturm zieht auf und es regnet ununterbrochen.
+                   Lege 4 deiner allgemeinen Würfel neben Wasserfelder. 
+                   Diese stellen ein normales Wasserfeld dar.
                       
-                AS 2: Nun müssen Gehege gebaut werden. Plaziere ein 2er Gehege leer
+                2: Nun müssen Gehege gebaut werden. Plaziere ein 2er Gehege leer
                       am Rand auf dem Artenschutzgebäude.
                       
-                AS 3: Nur noch ein Gehege muss gebaut werden. Plaziere ein 2er Gehege leer
+                3: Nur noch ein Gehege muss gebaut werden. Plaziere ein 2er Gehege leer
                       auf dem Artenschutzgebäude.
                       
-                AS 4: Endlich ist es soweit. Es können die Tiere einziehen ins Artenschutzgebäude
+                4: Endlich ist es soweit. Es können die Tiere einziehen ins Artenschutzgebäude
                       einziehen.
                       
                       Regeln: Tiere ziehen nach normalen Regeln ein. Beide Tiere müssen vom selben
